@@ -1,0 +1,11 @@
+#include<stdio.h>
+void main{  
+  int num[6],sortnum,i,j;
+  num[0]=1; num[1]=8;num[2]=4;num[3]=6;num[4]=7;num[5]=9;
+  
+  for(i=0;i<6;i++){
+    for(j=1;j<6;j++){
+      
+    }
+  }
+}
